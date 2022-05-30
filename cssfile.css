@@ -1,0 +1,44 @@
+h1
+{
+    color: rgba(177, 222, 87, 0.869);
+    background-color: darkslateblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 4px grey;
+}
+
+h1:hover
+{
+    color: red;
+}
+
+
+.first
+{
+    text-align: right;
+    margin: 80px;
+    padding: 40px;
+}
+
+.first:hover
+{
+    background-color:aquamarine;
+}
+
+.second
+{
+    text-align: center;
+    margin: 80px;
+    padding: 40px;
+}
+
+.third
+{
+    margin: 80px;
+    padding: 40px;
+}
+
+.narrow
+{
+    margin: 150px;
+}
