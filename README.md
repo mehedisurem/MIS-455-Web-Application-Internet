@@ -32,4 +32,4 @@ CSS: Stylesheet language for enhancing visual presentation.
 Bootstrap: Frontend framework for responsive design and layout.
 Animate.css: Library for adding animations to elements.
 
-Live: 
+Live: https://tesla-homepage-design.netlify.app/
